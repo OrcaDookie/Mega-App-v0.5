@@ -145,6 +145,7 @@ Special thanks to the people who helped, supported, and contributed ideas — yo
 
 *Listed in the app under Settings → Credits*
 
+Soon, I will add people, first 5 to comment get feature!
 ---
 
 ## 🤝 Contributing
