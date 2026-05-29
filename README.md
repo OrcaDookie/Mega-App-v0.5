@@ -163,4 +163,4 @@ MIT — do whatever you want with it.
 
 ---
 
-*Mega App Beta v0.5 — built with 🤖 + ☕ — runs entirely on your machine.*
+*Mega App Beta v0.5 — built with 🤖 + ☕ — runs entirely on your machine, also, some features do not work, later, when v0.75 or v1.0 is out, they may work, no release date, YET.*
